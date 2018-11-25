@@ -1,0 +1,6 @@
+Github is the distributed version control system
+It can be maintained in local system & server
+commit changes saves the files & generates the hash id for each commit.
+We can create many branches from the master and later merge the changes to the master.
+Fork is to create a duplicate of the repository and then work in that repository.
+Pull request is made by the user to implemeted changes in the new repository.
